@@ -23,9 +23,6 @@ baby fox,cute,lovely,happy,big eye,colorful,avator,white background,abstract pai
 baby panda,cute,lovely,happy,big eye,colorful,avator,white background,pixel art
 # 现实阴影 realistic shadows
 baby panda,cute,lovely,happy,big eye,colorful,avator,white background,realistic shadows
-# Q版 chibi  抽象背景 abstract background
-baby animal,full,cute,lovely,happy,big eye,colorful,avator,abstract background,chibi
-baby fox,full-body shot,cute,lovely,happy,big eye,avator,abstract background,chibi,Studio Ghibli
 ```
 ![](novelai/00037-2094530865-cat,cute,big_.png)
 
