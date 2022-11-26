@@ -25,6 +25,11 @@ baby panda,cute,lovely,happy,big eye,colorful,avator,white background,pixel art
 baby panda,cute,lovely,happy,big eye,colorful,avator,white background,realistic shadows
 ```
 ![](novelai/00037-2094530865-cat,cute,big_.png)
+```
+人物
+masterpiece, best quality,Exquisite details tiara,Exquisite detail eyes，Exquisite detail eyeshadow,((The main color is white)),((The auxiliary color is light blue)),The auxiliary color is pink
+```
+![](novelai/00000-359284142-masterpiece%2C%20b.png)
 
 ### 参考文章
 [NovelAI 案例说明](https://www.yuque.com/longyuye/lmgcwy)
