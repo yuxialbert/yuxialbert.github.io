@@ -32,4 +32,5 @@ masterpiece, best quality,Exquisite details tiara,Exquisite detail eyes，Exquis
 ![](novelai/00000-359284142-masterpiece%2C%20b.png)
 
 ### 参考文章
-[NovelAI 案例说明](https://www.yuque.com/longyuye/lmgcwy)
+- [NovelAI 案例说明](https://www.yuque.com/longyuye/lmgcwy)
+- [Warnning](https://seesaawiki.jp/love-ai/d/R-18)
