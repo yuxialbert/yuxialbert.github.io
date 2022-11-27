@@ -1,9 +1,12 @@
 ## Novel AI
 AI生成图片
 ### 部署
+#### 快速开始
 ```
-快速开始 kaggle
+# kaggle
 https://www.kaggle.com/code/inmine/novelai-with-webui-stable-diffusion-version
+# aistudio
+https://aistudio.baidu.com/aistudio/projectdetail/4666819?channelType=0&channel=0
 ```
 ### 设置
 参考推荐设置 迭代步数 30  采样方法 Euler a
