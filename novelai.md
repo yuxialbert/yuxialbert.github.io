@@ -36,5 +36,6 @@ masterpiece, best quality,Exquisite details tiara,Exquisite detail eyes，Exquis
 
 ### 参考文章
 - [NovelAI 案例说明](https://www.yuque.com/longyuye/lmgcwy)
-- [词汇生成器](https://ai.dawnmark.cn/)
+- [词汇生成器1](https://ai.dawnmark.cn/)
+- [词汇生成器2](https://aitag.top/)
 - [Warnning](https://seesaawiki.jp/love-ai/d/R-18)
